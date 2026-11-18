@@ -4,7 +4,10 @@ Muse 订阅用量的数据仓库，供小组件 / 脚本读取。每 30 分钟�
 
 ## 数据直链
 
-https://raw.githubusercontent.com/xqqhygmh8v-rgb/muse-usage-widget/main/data/muse_usage.json
+- 首选（GitHub Pages，国内网络一般可直连）：https://xqqhygmh8v-rgb.github.io/muse-usage-widget/data/muse_usage.json
+- 备用（raw 源站）：https://raw.githubusercontent.com/xqqhygmh8v-rgb/muse-usage-widget/main/data/muse_usage.json
+
+两个地址内容相同。Pages 地址在每次推送后自动重新发布，通常一两分钟内更新。
 
 ## 字段说明（data/muse_usage.json）
 
